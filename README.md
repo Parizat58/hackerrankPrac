@@ -1,3 +1,3 @@
 # Solutions to Hackerrank practice problems
 
-This repository contains solutions to Hackerrank practice problems with MYSQL.
+This repository contains solutions to Hackerrank practice problems.
