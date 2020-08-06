@@ -1,5 +1,5 @@
-problem: https://www.hackerrank.com/challenges/weather-observation-station-11/problem?h_r=next-challenge&h_v=zen
-MySQL
+# problem: https://www.hackerrank.com/challenges/weather-observation-station-11/problem?h_r=next-challenge&h_v=zen
+# MySQL
 
 
 
