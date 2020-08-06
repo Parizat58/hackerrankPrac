@@ -1,7 +1,5 @@
-problem: https://www.hackerrank.com/challenges/what-type-of-triangle/problem
-MySQL
-
-
+# problem: https://www.hackerrank.com/challenges/what-type-of-triangle/problem
+# MySQL
 # use case statement: they operate a lot like simple IF…ELSE statements.
 
 
