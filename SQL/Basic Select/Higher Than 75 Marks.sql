@@ -1,5 +1,5 @@
-problem: https://www.hackerrank.com/challenges/more-than-75-marks/problem
-MySQL
+# problem: https://www.hackerrank.com/challenges/more-than-75-marks/problem
+# MySQL
 
 
 SELECT NAME
