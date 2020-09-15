@@ -1,0 +1,20 @@
+# problem: https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+
+// Complete the checkMagazine function below.
+    static void checkMagazine(String[] magazine, String[] note) {
+         List<String> magList = new ArrayList<String>();
+         Collections.addAll(magList, magazine);
+         List<String> noteList = new ArrayList<String>();
+         Collections.addAll(noteList, note);
+         
+         Collections.sort(noteList);
+         Collections.sort(magList);
+         
+         magList.retainAll(noteList);
+         if(magList.equals(noteList)){
+             System.out.println("Yes");
+         }else{
+             System.out.println("No");
+         }
+    }}
+
